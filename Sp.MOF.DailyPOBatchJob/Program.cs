@@ -29,7 +29,6 @@ namespace Sp.MOF.DailyPOBatchJob
 
                 Log("Report Date : " + reportDate.ToString("yyyy-MM-dd"));
 
-
                 // ---------------------------------------------------------
                 // 2. Read configuration
                 // ---------------------------------------------------------
